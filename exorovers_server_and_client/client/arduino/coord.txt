@@ -1,0 +1,7 @@
+650, 50 pt nh4
+650, 145 pt co2
+650, 240 pt proximitate
+
+650, 335 pt imagine
+
+cifre : 44 cl x 50 ln

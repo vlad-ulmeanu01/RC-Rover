@@ -1,0 +1,185 @@
+Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py ===
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+socket created
+socket bind
+1 1 1 1 1
+received : 47 4 0 0.98 83 0 0 0
+received : 51 4 1020 0.0 82 0 0 0
+received : 51 4 1020 0.0 82 312 421 71
+received : 48 4 1020 0.0 82 318 426 99
+received : 48 4 1020 0.0 82 316 415 409
+received : 48 4 1020 0.0 82 321 426 96
+received : 50 4 1020 0.0 82 308 422 77
+received : 47 4 1020 0.0 82 313 421 86
+received : 48 4 1020 0.0 82 310 426 199
+received : 46 4 1020 0.0 82 318 428 340
+received : 46 4 1020 0.0 82 316 415 413
+received : 48 4 1020 0.0 81 319 418 105
+Traceback (most recent call last):
+  File "C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py", line 255, in <module>
+    main ()
+  File "C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py", line 156, in main
+    window.blit ( bg2, ( 0, 0 ) )
+pygame.error: display Surface quit
+>>> 
+=== RESTART: C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py ===
+pygame 1.9.4
+Hello from the pygame community. https://www.pygame.org/contribute.html
+socket created
+socket bind
+1 1 1 1 1
+received : 48 5 1020 1.0 82 311 422 110
+received : 48 5 1020 0.0 83 307 422 67
+received : 49 5 1020 0.0 83 312 420 519
+received : 49 5 1020 0.0 83 309 423 417
+received : 48 5 1020 0.0 83 310 428 94
+received : 49 5 1020 0.0 83 314 418 141
+received : 48 5 1020 0.0 83 307 419 129
+received : 48 5 1020 0.0 83 311 419 168
+received : 47 5 1020 0.0 83 307 421 397
+received : 48 5 1020 0.0 83 312 421 66
+received : 48 5 1020 0.0 83 314 419 195
+received : 48 5 1020 0.0 83 315 414 75
+received : 47 5 1020 0.0 83 309 425 79
+received : 48 5 1020 0.0 83 306 420 205
+received : 46 5 1020 0.0 83 309 420 114
+received : 47 5 1020 0.0 83 306 425 173
+received : 49 5 1020 0.0 83 313 420 138
+received : 47 5 1020 0.02 83 308 420 85
+received : 47 5 1020 0.0 82 311 424 205
+received : 48 5 1020 0.0 82 314 424 173
+received : 47 5 1020 0.0 82 316 428 145
+received : 47 5 1020 0.0 82 316 423 420
+received : 48 5 1020 0.0 82 316 418 94
+received : 48 5 1020 0.0 82 311 425 149
+received : 47 5 1020 0.0 82 310 419 106
+received : 47 5 1020 0.0 82 311 424 121
+received : 47 5 1020 0.0 82 314 420 77
+received : 47 5 1020 0.0 82 309 421 471
+received : 47 5 1020 0.0 82 313 423 149
+received : 46 5 1020 0.0 82 320 419 324
+received : 46 5 1020 0.0 82 305 423 121
+received : 48 5 1020 0.0 82 315 422 71
+received : 47 5 1020 0.0 82 311 423 76
+received : 47 5 1020 0.0 82 305 414 208
+received : 47 5 1020 0.0 82 314 426 109
+received : 47 5 1020 0.0 82 303 415 84
+received : 47 5 1020 0.0 82 308 419 129
+received : 49 5 1020 0.0 82 310 424 81
+received : 47 5 1020 0.0 83 303 411 212
+received : 49 5 1020 0.0 82 314 425 395
+received : 47 5 1020 0.0 83 309 427 121
+received : 47 5 1020 0.0 83 305 425 93
+received : 47 5 1020 0.0 83 308 420 94
+received : 47 5 1020 0.0 83 307 417 174
+received : 49 5 1020 0.0 83 310 424 141
+received : 47 5 1020 0.0 83 305 416 94
+received : 47 5 1020 0.0 83 307 421 131
+received : 47 5 1020 0.0 82 310 424 537
+received : 47 4 1020 0.0 83 310 411 105
+received : 48 5 1020 0.0 83 313 415 113
+received : 47 5 1020 0.0 82 312 415 88
+received : 47 5 1020 0.0 82 303 413 97
+received : 47 5 1020 0.0 82 314 414 123
+received : 48 5 1020 0.0 82 310 421 272
+received : 48 4 1020 0.0 83 310 421 472
+received : 48 5 1020 0.0 82 305 420 123
+received : 48 5 1020 0.0 83 313 414 32
+received : 49 5 1020 0.0 83 311 410 70
+received : 47 5 1020 0.0 83 315 424 121
+received : 47 5 1020 0.0 83 302 423 362
+received : 51 5 1020 0.0 82 309 416 245
+received : 50 5 1020 0.0 83 313 417 93
+received : 48 5 1020 0.0 83 309 426 95
+received : 52 5 1020 0.0 83 304 418 415
+received : 48 5 1020 0.0 83 313 421 205
+received : 49 5 1020 0.0 83 313 418 116
+received : 48 5 1020 0.0 83 311 415 241
+received : 49 5 1020 0.0 83 308 412 449
+received : 48 5 1020 0.0 83 309 417 446
+received : 48 5 1020 0.0 82 308 412 410
+received : 47 5 1020 0.0 82 306 421 88
+received : 48 5 1020 0.0 82 304 426 8
+received : 48 5 1020 0.0 82 305 421 381
+received : 48 5 1020 0.0 82 309 422 339
+received : 48 5 1020 0.0 82 311 420 463
+received : 48 5 1020 0.0 81 310 408 509
+received : 48 5 1020 0.0 82 310 413 98
+received : 47 5 1020 0.0 82 306 405 76
+received : 48 5 1020 0.04 81 314 421 152
+received : 49 5 1020 0.0 82 307 417 356
+received : 47 5 1020 0.09 83 305 413 451
+received : 50 5 1020 0.0 85 307 428 87
+received : 48 5 1020 0.0 86 312 431 542
+received : 49 5 1020 0.11 84 305 426 102
+received : 49 5 1020 0.0 84 309 413 510
+received : 49 5 1020 0.0 83 301 422 114
+received : 48 5 1020 0.0 83 308 414 111
+received : 49 5 1020 0.0 83 310 427 95
+received : 49 5 1020 0.15 83 301 422 69
+received : 48 5 1020 0.0 84 313 424 93
+received : 49 5 1020 0.21 84 306 407 463
+received : 49 5 1020 0.0 84 304 416 110
+received : 48 5 1020 0.0 84 305 423 127
+received : 48 5 1020 0.0 85 311 421 110
+received : 48 5 1020 0.0 85 300 414 111
+received : 48 5 1020 0.0 85 311 414 102
+received : 48 5 1020 0.0 85 298 419 88
+received : 49 5 1020 0.0 85 299 416 111
+received : 48 6 1020 0.0 85 304 418 124
+received : 48 5 1020 0.0 85 299 420 96
+received : 48 6 1020 0.0 85 304 422 98
+received : 48 6 1020 0.07 84 303 411 9
+received : 47 6 1020 0.14 84 307 408 9
+received : 47 6 1020 0.0 84 308 413 92
+received : 47 6 1020 0.0 86 302 410 103
+received : 46 6 1020 0.0 86 303 407 112
+received : 49 6 1020 0.0 86 300 413 111
+received : 48 6 1020 0.12 85 306 411 113
+received : 48 6 1020 0.0 86 298 407 112
+received : 47 6 1020 0.0 87 303 403 113
+received : 48 6 1020 0.1 87 306 401 81
+received : 47 6 1020 0.0 87 301 409 116
+received : 46 6 1020 0.0 86 307 416 123
+received : 48 6 1020 0.0 86 305 413 113
+received : 49 6 1020 0.0 86 301 404 102
+received : 48 6 1020 0.0 86 302 411 121
+received : 48 6 1020 0.0 86 301 411 120
+received : 48 6 1020 0.0 86 299 405 117
+received : 48 6 1020 0.0 86 302 403 118
+received : 49 6 1020 0.0 87 307 409 119
+received : 49 6 1020 0.0 87 297 412 120
+received : 49 6 1020 0.0 87 308 413 119
+received : 49 6 1020 0.0 87 306 416 239
+received : 49 6 1020 0.0 87 306 413 121
+received : 49 6 1020 0.0 87 309 410 126
+received : 49 6 1020 0.0 86 307 413 101
+received : 49 6 1020 0.0 86 299 409 123
+received : 49 6 1020 0.01 87 300 409 122
+received : 49 6 1020 0.0 88 300 409 109
+received : 49 6 1020 0.0 88 306 403 100
+received : 51 6 1020 0.0 88 302 408 101
+received : 49 6 1020 0.01 87 306 411 181
+received : 49 6 1020 0.06 87 308 409 108
+received : 49 6 1020 0.0 87 304 407 110
+received : 48 6 1020 0.0 88 303 405 164
+received : 49 6 1020 0.17 88 307 414 108
+received : 49 6 1020 0.0 87 306 408 106
+received : 48 6 1020 0.16 87 304 407 105
+received : 48 6 1020 0.03 88 301 410 91
+received : 48 6 1020 0.0 88 304 405 97
+received : 48 6 1020 0.07 88 306 410 104
+received : 49 6 1020 0.0 89 298 404 79
+received : 48 6 1020 0.0 89 304 413 100
+received : 48 6 1020 0.0 89 302 406 524
+Traceback (most recent call last):
+  File "C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py", line 255, in <module>
+    main ()
+  File "C:\Users\Mi Notebook Pro\Desktop\exorovers\server\hau2018.py", line 164, in main
+    hmd = float (hmd)
+ValueError: could not convert string to float: 
+>>> 
